@@ -11,6 +11,7 @@ This project demonstrates clustering techniques on a jewelry dataset using Pytho
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Open in Jupyter Notebook   
    
 ## Project Structure
    ```bash
