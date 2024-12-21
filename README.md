@@ -13,7 +13,7 @@ This project demonstrates clustering techniques on a jewelry dataset using Pytho
    pip install -r requirements.txt
    
 ## Project Structure
-   
+   ```bash
 jewelry-clustering/
 ├── data/
 │   └── jewelry_data.csv          # Dataset file
@@ -32,7 +32,7 @@ jewelry-clustering/
 ├── LICENSE                       # License file
 ├── setup.py                      # For making the project installable
 └── main.py                       # Main script to run the pipeline
-
+```
 
 
 
