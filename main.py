@@ -1,6 +1,6 @@
-from src.preprocess import load_data, preprocess_data
-from src.clustering import perform_clustering
-from src.visualize import plot_clusters
+from preprocess import load_data, preprocess_data
+from clustering import perform_clustering
+from visualize import plot_clusters
 
 FILEPATH = "jewelry_data.csv"
 NUMERICAL_FEATURES = ['weight', 'price', 'sales']
