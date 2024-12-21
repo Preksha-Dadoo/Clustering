@@ -34,7 +34,8 @@ jewelry-clustering/
 └── main.py                       # Main script to run the pipeline
 ```
 
-
+## Conclusion
+This project demonstrates the impact of different clustering techniques and preprocessing methods on clustering quality. K-Means Clustering with PCA preprocessing consistently outperformed other methods, making it the most effective approach for this dataset. This analysis provides insights into how data preprocessing and choice of clustering algorithm can influence the quality and interpretability of clusters in unsupervised learning tasks.
 
 ## License
 This project is distributed under the MIT License
